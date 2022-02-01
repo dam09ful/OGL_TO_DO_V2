@@ -1,4 +1,3 @@
-from tkinter import CURRENT
 from selenium import webdriver
 from chromedriver_py import binary_path
 from selenium.webdriver.common.by import By
